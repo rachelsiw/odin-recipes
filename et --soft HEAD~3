@@ -1,0 +1,40 @@
+[33mcommit ec0e0a503cfabecf9fdda051181d2dfc56663b4d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: rachelsiw <rachelsiwinski@gmail.com>
+Date:   Wed Feb 14 12:40:26 2024 -0600
+
+    Update the recipes
+    
+    In each recipes file I added the ingredients and the steps
+
+[33mcommit acd4afd8065c0d738ec9912aa85b03875e13462a[m
+Author: rachelsiw <rachelsiwinski@gmail.com>
+Date:   Tue Feb 13 13:38:47 2024 -0600
+
+    Add To recipes
+    
+    Created layout for each receipt page and added images.
+
+[33mcommit d77b0d1a08c26c16ff1b289a7da81a556b202a6f[m
+Author: rachelsiw <rachelsiwinski@gmail.com>
+Date:   Tue Feb 13 11:05:30 2024 -0600
+
+    Create Image Folder
+    
+    Find images for the website and save them to a new image Folder
+
+[33mcommit 144426dfb05babe0389557e7fb79a9a1d63fb1af[m
+Author: rachelsiw <rachelsiwinski@gmail.com>
+Date:   Tue Feb 13 10:35:57 2024 -0600
+
+    Add recipes links to Index
+    
+    Added the recipe links to the index page in a unordered list
+
+[33mcommit 65b570a0ba7674b5e7c407e011b6f5f29f60efd0[m
+Author: rachelsiw <rachelsiwinski@gmail.com>
+Date:   Tue Feb 13 10:22:20 2024 -0600
+
+    Create index.html and create recipe file
+    
+    Made the index file for the project and then created the pages that I will link onto the
+    the main page.
